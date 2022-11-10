@@ -1,0 +1,20 @@
+
+#isi{
+    margin-top: 20px;
+}
+#gambar{
+    padding: 20px;
+}
+
+.covid img{
+    -webkit-transition: 0.4s ease;
+    transition: 0.4s ease;
+    width: 160px;
+    height: 100px;
+    padding-bottom: 10px;
+}
+
+.zoom-effect:hover .covid img {
+    -webkit-transform: scale(1.08);
+    transform: scale(1.08);
+}

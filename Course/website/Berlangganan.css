@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(231, 231, 231);
+}
+
+.container{
+    background-color: white;
+}
+
+#buttton{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    position: fixed;
+    bottom: 40px;
+    right: 10px;
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.05);
+    text-indent: 100%;
+    white-space: nowrap;
+    opacity: .5;
+    background: rgba(232,98,86,.8) 
+    url(../gambar/top-arrow.png) no-repeat center 50%;
+}
+
+#navbar{
+    margin-top: 30px;
+}
+
+form{
+    text-align: left;
+    width: 400px;
+}
+
+.kanan{
+    margin-left: 991px;
+}
